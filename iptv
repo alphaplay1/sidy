@@ -5,11 +5,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ALPHA_P
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/z0L9a7u.png",REDE GOSPEL BRASIL
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8?ALPHA_PLAY
 
-
-#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA TV
-https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?ALPHA_PLAY
-
-
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/D2zt3sE.png",TV AVIVANDO NAÇÕES
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8?ALPHA_PLAY
 
