@@ -236,12 +236,6 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/d9NQqJw.png",TV ARACATI SD
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO RJ HD
-http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO EPTV CAMPINAS
-https://transcoderchannels.proxy.jotafplay.com.br/videos/EPTV/auto.m3u8?format=auto?ALPHAPLAY
-
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/VlHeBLa.png?1",CAT TVE HD BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="http://i.imgur.com/08ihVF6.jpg",TV GUARULHOS TV 3 HD
@@ -255,7 +249,7 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w3
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/kiVk4Gk.jpg",TV RP
 https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8
 
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB RADIO ALPHA GOSPEL
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",REDE ALPHA GOSPEL
 http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA ABC
