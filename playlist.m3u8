@@ -901,6 +901,9 @@ http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/playlist.m3u8?ALPHA_P
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://tudoradio.com/img/uploads/radios/5e0a2b638eae1.png",RÁDIO ENCONTRO DAS ÁGUAS
 https://cs1.xcast.com.br/9236/9236/playlist.m3u8?ALPHA_PLAY
 
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/uHQCmvQ.png",RÁDIO DIFUSORA 96.9 FM
+https://8016.brasilstream.com.br/stream?ALPHA_PLAY
+
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/eYtGoPS.png",RÁDIO A TARDE FM
 https://stm35.srvstm.com:7920/stream?ALPHA_PLAY
 
