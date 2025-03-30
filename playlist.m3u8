@@ -902,7 +902,7 @@ http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/playlist.m3u8?ALPHA_P
 https://cs1.xcast.com.br/9236/9236/playlist.m3u8?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/eYtGoPS.png",RÁDIO A TARDE FM
-http://sh.upx.com.br:8120/stream?ALPHA_PLAY
+https://stm35.srvstm.com:7920/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/hKTMyEd.png",RÁDIO RECÔNCAVO FM
 http://rtmp.cdn.upx.net.br/d684/myStream.sdp/playlist.m3u8?ALPHA_PLAY
@@ -1426,8 +1426,8 @@ http://stream.vagalume.fm/hls/1524081924608496/aac.m3u8
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/kvN1Zcs.png",RÁDIO SUBAÉ 1080 AM FEIRA BAHIA
 http://streaming.livecenter.com.br:9992/stream/1/
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/lxXtG1w.jpg",RÁDIO JOVEM PAN FEIRA
-http://glomes.sintonizar.radio.br:8088/glomesjpf/glomesjpf/icecast.audio
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/0FKXQ3m.png",RÁDIO JOVEM PAN FEIRA 100.9 FM
+https://8046.brasilstream.com.br/stream
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/xvXUf4G.jpg",RÁDIO TRANSBRASIL 99.5
 http://glomes.sintonizar.radio.br:8088/glomestfmfs/glomestfmfs/icecast.audio
